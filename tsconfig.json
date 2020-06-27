@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "outDir": "dist/ts",
+    "strict": true,
+    "target": "esnext"
+  }
+}
